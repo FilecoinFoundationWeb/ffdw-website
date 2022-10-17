@@ -7,7 +7,7 @@
         :key="index"
         :active="active">
 
-        <Zero_Core__Accordion_Header>
+        <Zero_Core__Accordion_Header tabindex="0">
           <div class="label">
             {{ section.label }}
           </div>
@@ -116,13 +116,14 @@ export default {
 }
 
 // ////////////////////////////////////////////////////////////////////// Header
-.accordion-header {
+::v-deep .accordion-header {
   @include p1;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 2rem 2rem 0;
+  padding: 1rem 1rem 1rem 0;
+  margin: 1rem 1rem 1rem 0;
   cursor: pointer;
 }
 

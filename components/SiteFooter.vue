@@ -247,6 +247,7 @@ $iconFingerDimension: 1.5rem;
     }
   }
   .button {
+    padding-right: 0.75rem;
     &:hover {
       color: $coralRed;
       padding-left: calc($iconFingerDimension + 1rem);

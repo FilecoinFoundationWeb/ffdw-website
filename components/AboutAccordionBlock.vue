@@ -7,7 +7,7 @@
         :key="index"
         :active="active">
 
-        <Zero_Core__Accordion_Header>
+        <Zero_Core__Accordion_Header tabindex="0">
           <div :class="['header-content', { reverse: section.direction === 'reverse' }]">
             <img :src="section.img" class="image" />
             <div v-if="section.title" class="title">
@@ -115,9 +115,6 @@ export default {
 .accordion-section {
   &:hover {
     color: $haiti;
-    .background {
-      opacity: 1;
-    }
   }
   &:before,
   &:after {
@@ -154,6 +151,15 @@ export default {
 }
 
 // ////////////////////////////////////////////////////////////////////// Header
+::v-deep .accordion-header {
+  &:hover,
+  &:focus-visible {
+    ~ .background {
+      opacity: 1;
+    }
+  }
+}
+
 .header-content {
   display: flex;
   flex-direction: row;

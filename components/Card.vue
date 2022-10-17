@@ -339,7 +339,8 @@ export default {
   }
   &.type__A,
   &.type__B {
-    &:hover {
+    &:hover,
+    &:focus-visible, {
       color: $haiti;
       .background {
         opacity: 1;
@@ -440,7 +441,8 @@ export default {
 
 // -------------------------------------------------------------------- [Type] B
 .card.type__B {
-  &:hover {
+  &:hover,
+  &:focus-visible {
     &.theme__purple-green,
     &.theme__red-green {
       .tag {

@@ -18,6 +18,8 @@
         :pattern="getValidationPattern(field.for)"
         :placeholder="field.label"
         :validation-message="field.validation"
+        tabindex="0"
+        class="input focus-visible"
         required="required"
         aria-required="true" />
       <span
@@ -73,7 +75,8 @@ export default {
   data () {
     return {
       validMessages: new Array(this.fields.length).fill(true),
-      componentKey: 0
+      componentKey: 0,
+      keyup: false
     }
   },
 
@@ -125,10 +128,27 @@ textarea {
   width: 100%;
   @include fontSize_Small;
   @include fontWeight_Semibold;
+}
 
+.input {
+  padding: 0.5rem;
+  border-radius: 2px;
+  box-shadow: 0 0 0 3px rgba(white, 0);
+  transition: box-shadow 200ms ease;
   &:focus {
-    outline: none;
+    box-shadow: 0 0 0 3px rgba(white, 0.5);
+    outline: 0;
   }
+  &:focus:not(:focus-visible) {
+   box-shadow: none;
+   outline: 0;
+  }
+}
+
+.input:focus-visible,
+.input:moz-focusring {
+  box-shadow: 0 0 0 3px rgba(white, 0.5);
+  outline: 0;
 }
 
 // ///////////////////////////////////////////////////////////////////// Fields
@@ -156,7 +176,7 @@ textarea {
     width: 100%;
     height: 0.25rem;
     content: "";
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     @include gradient_Background_RedPurple;
   }
 }

@@ -1,5 +1,7 @@
 <template>
-  <nav :class="[`navigation theme__${theme}`, { 'nav-open': navigationOpen }]">
+  <nav
+    ref="navigation"
+    :class="[`navigation theme__${theme}`, { 'nav-open': navigationOpen }]">
 
     <button
       class="mobile-nav-toggle-button"
@@ -14,11 +16,13 @@
         <div
           v-for="(section, sectionIndex) in navigation"
           :key="`section-${sectionIndex}`"
-          class="nav-link-wrapper">
+          :class="['nav-link-wrapper', { active: sectionIndex === activeItem }]">
 
           <Button
             :button="section.link"
-            :class="['nav-link', { 'has-subnav': section.links }]" />
+            :class="['nav-link', { 'has-subnav': section.links }]"
+            @focus.native="setActiveItem(sectionIndex)"
+            @focusout.native="(e) => { checkForActiveElement(e) }" />
 
           <div
             v-if="section.links"
@@ -31,7 +35,9 @@
                 v-for="(link, linkIndex) in section.links"
                 :key="`link-${linkIndex}`"
                 :button="link"
-                class="subnav-link" />
+                class="subnav-link"
+                @click.native="sublinkClicked(link)"
+                @keyup.native.enter="sublinkClicked(link)" />
             </div>
             <div class="subnav-artifacts" />
           </div>
@@ -67,6 +73,13 @@ export default {
     }
   },
 
+  data () {
+    return {
+      activeItem: -1,
+      componentKey: 0
+    }
+  },
+
   computed: {
     ...mapGetters({
       siteContent: 'global/siteContent',
@@ -86,6 +99,33 @@ export default {
     }),
     toggleMobileNav () {
       this.setNavigationOpen(!this.navigationOpen)
+    },
+    setActiveItem (newIndex) {
+      if (newIndex >= 0) {
+        if (this.activeItem !== newIndex) {
+          this.activeItem = newIndex
+          this.componentKey++
+        }
+      }
+    },
+    checkForActiveElement (e) {
+      if (this.$refs.navigation && e.relatedTarget) {
+        const navActive = this.$refs.navigation.contains(e.relatedTarget)
+        if (!navActive) {
+          this.activeItem = -1
+        }
+      }
+    },
+    sublinkClicked (link) {
+      if (link.url === this.$route.fullPath) {
+        this.$nextTick(() => {
+          const id = link.url.substring(link.url.indexOf('#') + 1)
+          const element = document.getElementById(id) || document.querySelector(`[data-id='${id}']`)
+          if (element) {
+            this.$scrollToElement(element, 0, -50)
+          }
+        })
+      }
     }
   }
 }
@@ -251,6 +291,7 @@ $squareArtifactDimension: 2.5rem;
   @include mini {
     width: 100%;
   }
+  &.active,
   &:hover {
     .subnav {
       opacity: 1;

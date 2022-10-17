@@ -4,6 +4,7 @@
     :to="tag === 'nuxt-link' ? url : undefined"
     :href="tag === 'a' ? url : undefined"
     :target="target"
+    tabindex="0"
     :class="[`button type__${type} action__${action} theme__${theme} orientation__${orientation}`]"
     :data-text="text"
     @click="openModal">
