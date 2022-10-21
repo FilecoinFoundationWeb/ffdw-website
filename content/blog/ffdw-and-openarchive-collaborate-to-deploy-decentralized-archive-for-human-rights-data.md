@@ -1,15 +1,24 @@
 ---
 featured: false
-title: FFDW and OpenArchive Collaborate to Deploy Decentralized Archive for Human Rights Data
-description: Filecoin Foundation for the Decentralized Web (FFDW) is proud to announce our award to OpenArchive, a nonprofit dedicated to advancing human rights by empowering people to collect, verify, and securely preserve mobile media using distributed backends. Through this collaboration, OpenArchive will be able to support decentralized backends for the Save app. This will enable people on the ground capturing images and footage of world events to leverage IPFS and Filecoin and other decentralized storage options via their mobile device.
+title: FFDW and OpenArchive Collaborate to Deploy Decentralized Archive for Human
+  Rights Data
+description: Filecoin Foundation for the Decentralized Web (FFDW) is proud to announce
+  our award to OpenArchive, a nonprofit dedicated to advancing human rights by empowering
+  people to collect, verify, and securely preserve mobile media using distributed
+  backends. Through this collaboration, OpenArchive will be able to support decentralized
+  backends for the Save app. This will enable people on the ground capturing images
+  and footage of world events to leverage IPFS and Filecoin and other decentralized
+  storage options via their mobile device.
 author: Filecoin Foundation for the Decentralized Web
-date: November 18 2021
-sortDate: 2021-11-18
-image: '/images/page-blog/openarchive.png'
+date: 2021-11-18
+image: "/images/page-blog/openarchive.png"
 recommendedPosts: []
-tags: ['Rights', 'Smartphones', 'Mobile media']
----
+tags:
+- Rights
+- Smartphones
+- Mobile media
 
+---
 ![ffdw and openarchive collaborate to deploy decentralized archive](/images/page-blog/ffdw-and-openarchive-collaborate-to-deploy-decentralized-archive-for-human-rights-data.png)
 
 Filecoin Foundation for the Decentralized Web (FFDW) is proud to announce our award to [OpenArchive](https://open-archive.org/), a nonprofit dedicated to advancing human rights by empowering people to collect, verify, and securely preserve mobile media using distributed backends. Through this collaboration, OpenArchive will be able to support decentralized backends for the [Save](https://open-archive.org/Save-Launch/) app. This will enable people on the ground capturing images and footage of world events to leverage IPFS and Filecoin and other decentralized storage options via their mobile device.

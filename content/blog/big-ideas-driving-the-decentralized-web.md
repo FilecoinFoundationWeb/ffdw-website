@@ -5,7 +5,7 @@ tags:
 - Open Source
 - Decentralized Data Storage
 title: Big Ideas Driving the Decentralized Web
-date: September 28 2022
+date: 2022-09-28
 author: ''
 description: We are at a fork in the road when it comes to building an internet that
   enhances trust, allows users to maintain privacy, incentivizes entrepreneurs to
@@ -17,7 +17,6 @@ description: We are at a fork in the road when it comes to building an internet 
 featured: true
 recommendedPosts: []
 image: "/images/0928-ffdw-glossary.png"
-sortDate: '2022-09-28'
 
 ---
 We are at a fork in the road when it comes to building an internet that enhances trust, allows users to maintain privacy, incentivizes entrepreneurs to build safe and secure systems, and enables the preservation of the world’s most important information for future generations. At Filecoin Foundation for the Decentralized Web (FFDW), we believe that the Internet must return to its original – more decentralized – architecture. Some call this direction “Web3”; some call it the decentralized web or“DWeb.”

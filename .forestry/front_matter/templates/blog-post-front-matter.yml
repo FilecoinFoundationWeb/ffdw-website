@@ -11,7 +11,7 @@ fields:
   label: Date
   description: The date on which the post was created
   config:
-    required: false
+    required: true
     date_format: 
     time_format: 
     display_utc: false
@@ -57,4 +57,5 @@ pages:
 - content/blog/ffdw-works-with-prelinger-archives-to-make-rare-historic-films-more-accessible-using-the-decentralized-web.md
 - content/blog/filecoin-foundation-for-the-decentralized-web-and-techcongress-will-work-together-to-place-more-technologists-on-capitol-hill.md
 - content/blog/filecoin-foundation-for-the-decentralized-web-boosts-harvard-library-innovation-lab-s-work-to-democratize-open-knowledge.md
+- content/blog/hello-world.md
 - content/blog/web3-sci-fi-christopher-kulendran-thomas-s-another-world-to-debut-at-london-s-institute-of-contemporary-arts.md

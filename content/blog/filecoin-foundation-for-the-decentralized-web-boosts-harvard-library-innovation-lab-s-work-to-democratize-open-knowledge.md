@@ -6,8 +6,7 @@ tags:
 - Library Innovation Lab
 title: Filecoin Foundation for the Decentralized Web Boosts Harvard Library Innovation
   Lab’s Work to Democratize Open Knowledge
-date: July 07 2022
-sortDate: '2022-07-27'
+date: 2022-07-07
 author: Filecoin Foundation for the Decentralized Web
 description: Filecoin Foundation for the Decentralized Web (FFDW) is proud to announce
   an award to the Library Innovation Lab (LIL) at Harvard University to support its

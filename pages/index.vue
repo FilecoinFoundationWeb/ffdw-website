@@ -43,7 +43,7 @@ export default {
   async asyncData ({ $content }) {
     const blogPosts = await $content('blog')
       .without(['body'])
-      .sortBy('sortDate', 'desc')
+      .sortBy('date', 'desc')
       .limit(3)
       .fetch()
     return { blogPosts }

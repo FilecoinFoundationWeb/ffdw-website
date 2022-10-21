@@ -6,8 +6,7 @@ tags:
 - Economies of Trust
 - Browsers and dApps
 title: 'Exploring the Decentralized Web: Episodes 5–8'
-date: February 15 2022
-sortDate: '2022-02-15'
+date: 2022-02-15
 author: Filecoin Foundation for the Decentralized Web
 description: Episodes 5–8 dive into some of the most impactful topics in the Web3
   space –from privacy, identity, and user control, to blockchain economics, dApps,
@@ -39,7 +38,7 @@ Hear more from experts about the distinction of open-source projects, incentive 
 
 In Episode 7, experts explore applications and use cases for blockchain technology. Beyond cryptocurrency, they dive into the mechanics of trustless transactions, network participants within a blockchain ecosystem, and how data ownership and control work within these systems. Guests include Jonathan Dotan of[ Starling](https://www.starlinglab.org/), Zooko Wilcox-O’Hearn of[ Zcash](https://z.cash/), Marta Belcher of Filecoin Foundation for the Decentralized Web, Patrick Collins of[ Chainlink](https://chain.link/), Mariano Conti of[ MakerDAO](https://makerdao.com/en/), Urban Osvald of the[ Web3 Foundation](https://web3.foundation/), Brad Kam of[ Unstoppable Domains](https://unstoppabledomains.com/), Sarah Friend — artist and software engineer, Kristin Smith of the[ Blockchain Association](https://theblockchainassociation.org/), and Matt Stephenson of[ Planck](https://planckdata.com/).
 
-[**Episode 8: "Browsers and dApps"**](https://www.youtube.com/watch?v=wF_a2vR4zxQ) 
+[**Episode 8: "Browsers and dApps"**](https://www.youtube.com/watch?v=wF_a2vR4zxQ)
 
 In Episode 8, _Exploring the Decentrlaized Web_ explores the history and benefits of Web3 browsers, like Brave and Opera, which leverage peer-to-peer protocols and cryptocurrency wallets. This episode dives into how the next version of web browsers will return _lost agency_ to users and re-establish web browsers as a tool that serves users rather than the developer or parent company. It also explores the benefits of IPFS, including content addressing and how it gives users greater control over their own data. Guests include Danny O’Brien of the Filecoin Foundation for the Decentralized Web, Marcia Hofmann — electronic privacy attorney, Carson Farmer of[ Textile](https://www.textile.io/), Brad Kam of[ Unstoppable Domains](https://unstoppabledomains.com/) and Dietrich Ayala of[ IPFS](https://ipfs.io/).
 

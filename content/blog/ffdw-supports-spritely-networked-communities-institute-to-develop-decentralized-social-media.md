@@ -5,8 +5,7 @@ tags:
 - award
 title: FFDW Supports Spritely Networked Communities Institute to Develop Decentralized
   Social Media
-date: August 16 2022
-sortDate: 2022-08-16
+date: 2022-08-16
 author: Filecoin Foundation for the Decentralized Web
 description: Award will further efforts to give people control over identity and relationships
   online

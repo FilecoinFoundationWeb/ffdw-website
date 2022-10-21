@@ -5,8 +5,7 @@ description: Melba Roy Mouton was a statistician and computer scientist whose co
   to the scientific community during her tenure at NASA not only shaped modern programming
   uses and documentation practices, but also how it is taught to future generations.
 author: Filecoin Foundation for the Decentralized Web
-date: June 01 2021
-sortDate: 2021-06-01
+date: 2021-06-01
 image: "/images/page-blog/melba-roy.jpeg"
 recommendedPosts:
 - History

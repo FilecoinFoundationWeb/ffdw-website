@@ -2,8 +2,7 @@
 tags: []
 title: FFDW and EASIER Data Initiative Collaborate to Upload Spatial Data to Filecoin
   Network
-date: October 12 2022
-sortDate: 2022-10-12
+date: 2022-10-12
 author: ''
 description: Filecoin Foundation for the Decentralized Web (FFDW) is excited to announce
   our collaboration with the EASIER Data Initiative at the University of Maryland,
@@ -28,8 +27,8 @@ This Initiative will first focus on uploading data from Landsat 9–the latest s
 
 The EASIER Data Initiative is building a next-generation platform for spatial data, which refers to any interaction or observation that can be referenced to a location on the globe. The location data industry is a [$12 billion market](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data) and is often cited as covering [60-80% of global data products](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/reveal-more-value.pdf) according to industry experts. Because the amount of data is so vast, the Initiative's work has the potential to benefit organizations – from local governments and universities to federal agencies and NGOs – who are responsible for planning, research, and decision-making. For example, location data can help predict weather patterns or understand the implications of climate change.
 
-  
+
 The EASIER Data Initiative is in partnership with [Textile](https://linktr.ee/textileio), an open-source technology company with the mission to accelerate the open exchange of information on the internet, as well as University of Maryland’s Department of Geographic Sciences, a leader in using and teaching geospatial perspective and technology to solve humanity’s most pressing issues at local, national, and global scales.
 
-  
+
 To learn more about the EASIER Data Initiative, visit easierdata.org.
