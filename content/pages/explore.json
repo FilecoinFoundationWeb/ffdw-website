@@ -18,7 +18,7 @@
     "sub_theme": "red-green"
   },
   "page_content": {
-    "learn_1": {
+    "learn": {
       "col_1": {
         "type": "text_block",
         "cols": {
@@ -119,7 +119,7 @@
         ]
       }
     },
-    "videos_1": {
+    "resources": {
       "col_1": {
         "type": "text_block",
         "cols": {
@@ -154,7 +154,7 @@
         "slatename": "ffdw-website-explore-page-videos"
       }
     },
-    "callout": {
+    "collaborators": {
       "grid": [
         "center",
         "noGutter"
@@ -187,7 +187,7 @@
               "cta": {
                 "type": "X",
                 "action": "nuxt-link",
-                "url": "/about/#board_1",
+                "url": "/about/#board",
                 "text": "Board & Advisors",
                 "theme": "",
                 "icon_before": "",

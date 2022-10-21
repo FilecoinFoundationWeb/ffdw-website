@@ -169,7 +169,7 @@ export default {
   }
 }
 
-::v-deep #grants_1 {
+::v-deep #grants {
   padding-bottom: 0;
   [class~="grid"],
   [class*="grid-"],

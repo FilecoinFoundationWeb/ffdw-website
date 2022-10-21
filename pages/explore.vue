@@ -116,7 +116,7 @@ export default {
 $gutter: calc((100% - #{$containerWidth}) / 2);
 
 // /////////////////////////////////////////////////////////////////// Specifics
-::v-deep #learn_1 {
+::v-deep #learn {
   padding-bottom: 0;
 }
 
@@ -309,7 +309,7 @@ $gutter: calc((100% - #{$containerWidth}) / 2);
   }
 }
 
-::v-deep #callout {
+::v-deep #collaborators {
   padding-bottom: 0;
   @include containerMaxMQ {
     padding-bottom: 5rem;

@@ -263,7 +263,7 @@
         }
       }
     },
-    "grants_1": {
+    "grants": {
       "grid": [
         "bottom"
       ],

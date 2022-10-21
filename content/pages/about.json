@@ -36,7 +36,7 @@
     "theme": "purple"
   },
   "page_content": {
-    "intro_1": {
+    "intro": {
       "col_1": {
         "type": "text_block",
         "cols": {
@@ -114,7 +114,7 @@
         ]
       }
     },
-    "vision_1": {
+    "vision": {
       "col_1": {
         "type": "text_block",
         "cols": {
@@ -192,7 +192,7 @@
 
       ]
     },
-    "board_1": {
+    "board": {
       "col_1": {
         "type": "text_block",
         "cols": {

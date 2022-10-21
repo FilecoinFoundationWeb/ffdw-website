@@ -59,21 +59,21 @@
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/about/#intro_1",
+          "url": "/about/#intro",
           "text": "About us",
           "icon_before": "arrow-down"
         },
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/about/#vision_1",
+          "url": "/about/#vision",
           "text": "Promise > Vision",
           "icon_before": "arrow-down"
         },
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/about/#board_1",
+          "url": "/about/#board",
           "text": "Board & Advisors",
           "icon_before": "arrow-down"
         },
@@ -101,21 +101,21 @@
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/explore/#learn_1",
+          "url": "/explore/#learn",
           "text": "Learn about Web3",
           "icon_before": "arrow-down"
         },
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/explore/#videos_1",
+          "url": "/explore/#resources",
           "text": "Educational Resources",
           "icon_before": "arrow-down"
         },
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/explore/#callout",
+          "url": "/explore/#collaborators",
           "text": "Collaborators",
           "icon_before": "arrow-down"
         },
@@ -150,7 +150,7 @@
         {
           "type": "F",
           "action": "nuxt-link",
-          "url": "/get-involved/#grants_1",
+          "url": "/get-involved/#grants",
           "text": "Apply for Awards",
           "icon_before": "arrow-down"
         },

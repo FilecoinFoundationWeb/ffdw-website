@@ -71,7 +71,7 @@ export default {
 
 <style lang="scss" scoped>
 // /////////////////////////////////////////////////////////////////// Specifics
-::v-deep #intro_1 {
+::v-deep #intro {
   padding-top: 9rem;
   .text-block {
     @include mini {
@@ -115,7 +115,7 @@ export default {
   }
 }
 
-::v-deep #vision_1 {
+::v-deep #vision {
   padding: 0;
 }
 
@@ -163,7 +163,7 @@ export default {
   }
 }
 
-::v-deep #board_1,
+::v-deep #board,
 ::v-deep #advisors_1 {
   padding: 0;
 }
