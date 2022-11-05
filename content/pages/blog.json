@@ -1,13 +1,14 @@
 {
   "seo": {
     "title": "Blog - Filecoin Foundation for the Decentralized Web",
-    "description": "Blog - Filecoin Foundation for the Decentralized Web"
+    "description": "Updates from FFDW and across the Web3 universe."
   },
   "og": {
     "site_name": "Blog - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "url": "https://ffdweb.org/blog",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "description": "Updates from FFDW and across the Web3 universe.",
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_3",

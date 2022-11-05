@@ -1,13 +1,14 @@
 {
   "seo": {
     "title": "Contact - Filecoin Foundation for the Decentralized Web",
-    "description": " "
+    "description": "Here's where you can find and get in touch with FFDW. Contact us directly, visit one of our social channels, or check out our career opportunities."
   },
   "og": {
     "site_name": "Contact - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "url": "https://ffdweb.org/contact",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "description": "Here's where you can find and get in touch with FFDW. Contact us directly, visit one of our social channels, or check out our career opportunities.",
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_2",

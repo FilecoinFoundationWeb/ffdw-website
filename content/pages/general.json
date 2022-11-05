@@ -1,13 +1,14 @@
 {
   "seo": {
     "title": "Filecoin Foundation for the Decentralized Web",
-    "description": ""
+    "description": "Filecoin Foundation for the Decentralized Web is a 501(c)(3) nonprofit organization committed to preserving humanity’s most important information by fostering the development of open-source software and open protocols."
   },
   "og": {
     "site_name": "Filecoin Foundation for the Decentralized Web",
     "url": "",
+    "description": "Filecoin Foundation for the Decentralized Web is a 501(c)(3) nonprofit organization committed to preserving humanity’s most important information by fostering the development of open-source software and open protocols.",
     "type": "website",
-    "image": "/images/open-graph.png"
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "logo_button": {
     "type": "X",

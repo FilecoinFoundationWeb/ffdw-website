@@ -5,9 +5,10 @@
   },
   "og": {
     "site_name": "Awards - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "url": "https://ffdweb.org/awards",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "description": "FFDW focuses its collaborations on charitable activities. Along with our core work providing awards and working alongside our collaborators, FFDW also funds other initiatives through donations and sponsorships.",
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_4",

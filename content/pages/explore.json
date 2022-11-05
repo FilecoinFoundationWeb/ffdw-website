@@ -1,13 +1,14 @@
 {
   "seo": {
     "title": "Explore - Filecoin Foundation for the Decentralized Web",
-    "description": " "
+    "description": "FFDW's supports programs that educate the public about how the internet works and what it may look like in the future. Explore videos and educational material from across the decentralized web."
   },
   "og": {
     "site_name": "Explore - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "url": "https://ffdweb.org/explore",
+    "description": "FFDW's supports programs that educate the public about how the internet works and what it may look like in the future. Explore videos and educational material from across the decentralized web.",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_4",

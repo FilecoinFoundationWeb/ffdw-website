@@ -1,13 +1,14 @@
 {
   "seo": {
     "title": "About - Filecoin Foundation for the Decentralized Web",
-    "description": "About - Filecoin Foundation for the Decentralized Web"
+    "description": "FFDW, or the Filecoin Foundation for the Decentralized Web, is a 501(c)(3) non-profit whose mission is to ensure the permanent preservation of humanity’s most important information by stewarding the development of open-source software and open protocols."
   },
   "og": {
     "site_name": "About - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "url": "https://ffdweb.org/about",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "description": "FFDW, or the Filecoin Foundation for the Decentralized Web, is a 501(c)(3) non-profit whose mission is to ensure the permanent preservation of humanity’s most important information by stewarding the development of open-source software and open protocols.",
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_1",

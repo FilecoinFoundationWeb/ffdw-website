@@ -1,14 +1,14 @@
 {
   "seo": {
-    "title": "Home - Filecoin Foundation for the Decentralized Web",
-    "description": "foobar",
-    "test": ""
+    "title": "Filecoin Foundation for the Decentralized Web.",
+    "description": "FFDW exists to advance humankind by furthering the future of the web through education, research, and development."
   },
   "og": {
-    "site_name": "Home - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "site_name": "Filecoin Foundation for the Decentralized Web",
+    "url": "https://ffdweb.org",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "description": "FFDW exists to advance humankind by furthering the future of the web through education, research, and development.",
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_6",

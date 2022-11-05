@@ -1,13 +1,14 @@
 {
   "seo": {
     "title": "Get Involved - Filecoin Foundation for the Decentralized Web",
-    "description": " "
+    "description": "Contribute, explore our educational content, view our social media, or take a look at our open positions."
   },
   "og": {
     "site_name": "Get Involved - Filecoin Foundation for the Decentralized Web",
-    "url": "",
+    "url": "https://ffdweb.org/get-involved/",
     "type": "website",
-    "image": "/images/page-index/open-graph.png"
+    "description": "Contribute, explore our educational content, view our social media, or take a look at our open positions.",
+    "image": "/images/ffdw-general-open-graph-image.png"
   },
   "header": {
     "type": "variant_1",
