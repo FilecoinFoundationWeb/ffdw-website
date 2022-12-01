@@ -239,7 +239,7 @@ $iconFingerDimension: 1.5rem;
   .icon-before.finger-up {
     width: 1.4375rem;
     opacity: 0;
-    transform: translateX(-$iconFingerDimension) rotate(90deg);
+    transform: translateX(-0.625rem) rotate(90deg);
     svg {
       path {
         fill: $coralRed;
@@ -247,13 +247,17 @@ $iconFingerDimension: 1.5rem;
     }
   }
   .button {
-    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+    padding-right: 2.25rem;
+    .text {
+      margin: 0 0.5rem;
+    }
     &:hover {
       color: $coralRed;
-      padding-left: calc($iconFingerDimension + 1rem);
+      transform: translateX(calc($iconFingerDimension + 1rem));
       .icon-before.finger-up {
         opacity: 1;
-        transform: translateX(-1rem) rotate(90deg);
+        transform: translateX(-0.375rem) rotate(90deg);
       }
     }
   }
@@ -284,8 +288,9 @@ $iconFingerDimension: 1.5rem;
 
 ::v-deep .social-bar {
   .social-icon {
+    padding-right: 0.25rem;
     &:not(:last-child) {
-      margin-right: 1rem;
+      margin-right: 0.75rem;
     }
     .label {
       @include secondaryButtonStyles;

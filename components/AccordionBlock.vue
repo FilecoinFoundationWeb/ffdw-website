@@ -93,8 +93,8 @@ export default {
   &:before,
   &:after {
     position: absolute;
-    left: 0;
-    width: 100%;
+    left: 0.25rem;
+    width: calc(100% - 0.25rem);
     height: 4px;
     background: $cararra;
   }
@@ -122,13 +122,14 @@ export default {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 1rem 1rem 0;
-  margin: 1rem 1rem 1rem 0;
+  padding: 1rem 1rem 1rem 0.25rem;
+  margin: 1rem 1rem 1rem 0.25rem;
   cursor: pointer;
 }
 
 .label {
   @include p1;
+  transform: translateX(-0.25rem);
 }
 
 .icon {

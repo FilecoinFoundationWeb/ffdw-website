@@ -277,8 +277,7 @@ $artifact_b_dimension: 1.5rem;
   line-height: 1;
   color: $cararra;
   text-transform: uppercase;
-  padding: 1rem 1.3125rem;
-  margin: 0 $artifact_b_dimension $artifact_b_dimension $artifact_b_dimension;
+  padding: 1rem calc(1.3125rem + $artifact_b_dimension) calc(1rem + 2px + $artifact_b_dimension) calc(1.3125rem + $artifact_b_dimension);
   &:hover {
     color: $haiti;
   }
@@ -291,7 +290,7 @@ $artifact_b_dimension: 1.5rem;
   }
   .artifact-1,
   .artifact-2 {
-    height: 50%;
+    height: $artifact_b_dimension;
   }
   .artifact-3,
   .artifact-4 {
@@ -299,26 +298,26 @@ $artifact_b_dimension: 1.5rem;
     height: $artifact_b_dimension;
   }
   .artifact-1 {
-    left: 2px;
+    left: calc(2px + $artifact_b_dimension);
     top: 0;
-    width: calc(100% - 2px);
+    width: calc(100% - 2px - 2 * $artifact_b_dimension);
     border-left: 0;
     border-bottom: 0;
   }
   .artifact-2 {
-    left: 0;
-    bottom: 0;
-    width: 100%;
+    left: $artifact_b_dimension;
+    top: $artifact_b_dimension;
+    width: calc(100% - 2 * $artifact_b_dimension);
     border-top: 0;
   }
   .artifact-3 {
     top: 0;
-    right: calc(100% - 2px);
+    left: 2px;
     border-right: 0;
   }
   .artifact-4 {
-    top: 100%;
-    left: 100%;
+    bottom: 0;
+    right: 0;
   }
 }
 
@@ -348,6 +347,8 @@ $artifact_b_dimension: 1.5rem;
 .type__D {
   @include fontSize_Tiny;
   @include fontWeight_Extrabold;
+  padding: 0.125rem;
+  padding-right: 0.1875rem;
   align-items: center;
   text-transform: uppercase;
   &:hover {

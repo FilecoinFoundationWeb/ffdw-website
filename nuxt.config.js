@@ -11,7 +11,7 @@ export default {
     slateKey: process.env.SLATE_KEY,
     seo: {
       siteName: 'Filecoin Foundation for the Decentralized Web',
-      siteUrl: ''
+      siteUrl: 'https://ffdweb.org'
     },
     redirects: []
   },
