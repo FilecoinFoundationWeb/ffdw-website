@@ -1,80 +1,121 @@
-#### I. COLLECTION OF INFORMATION
+_Last Updated: December 31, 2022_
+#### I. What Personal Information is Collected
+Depending on how you interact with us, we may collect the following categories of personal information, some of which may be considered sensitive personal information under applicable laws, when you use our Services:
 
-We collect the following categories of information when you use our Services:
+- *Information you provide directly to us.* We may collect and store any personal information you enter on our Services or provide to us in some other manner, including personal information that may be contained in any video, comment, or other submission you upload or post to the Websites. This personal information includes:
 
-- Information you provide directly to us.
-    - Contact Information, including name, email address, telephone or mobile phone number;
-    - Correspondence you send to us.
+  - **Identifiers**, including your real name, postal address, e-mail address, telephone number, and other similar identifiers;
 
-- Information we collect automatically.  We collect internet, electronic activity, and other information automatically from the devices and browsers that you use, including your device type; time zone setting and location; browser type and version; browser plug in types and versions; operating system and platform; Internet service provider; pages that you visit before and after using the Services, browsing history, and search history; the date and time of your visit; information about the links you click, pages you view, and and other information about how you use the Services; the technology on the devices you use to access these Services; and standard server log information.  If you or your device experiences an error, we collect information about the error, the time the error occurred, the feature being used, the state of the application when the error occurred, and any communications or content provided at the time the error occurred.  Consistent with your mobile device or app permissions, we also collect geolocation information, IP address, and other device information.
+  - **Commercial information**, including information you provide if you transact business with us or receive funding from us, such as contracted-for services, records of personal property, and financial information such as your payment method (e.g., valid credit card number, bank account information, or other financial information);
 
-Without this information, we are not able to provide you with all the requested services, and any differences in services are related to your information.
+  - **Geolocation data**, including information derived from IP address and other device information;
 
-We may aggregate or de-identify the information described above.  Aggregated or de-identified data is not subject to this Privacy Policy.
+  - **Demographic and profile information**, including your interests, preferences, activities, gender, age, racial or ethnic origin, and other demographic information;
 
-#### II. USE OF INFORMATION AND PURPOSE OF DATA PROCESSING
+  - **Audio, electronic, or visual information**, including video, comments, or submissions uploaded to the Websites or Services; and
 
-We use and otherwise process each of the categories of information identified above for the following purposes:
+  - **Inferences**, which may be drawn from any of the categories of personal information described above.
 
-| Purpose/Activity  | EEA/UK lawful basis for processing, including basis of legitimate interest |
-| :---------------- | :------------------------------------------------------------------------- |
-| To provide you with the information and services that you request from us; to allow you to participate in interactive features of our Services, when you choose to do so; to manage accounts; and to manage our relationship with you, including providing you with the information, products and services that you request from us, and notifying you about changes to our terms or privacy policy. | (a) Performance of a contract with you (b) Necessity to comply with a legal obligation (c) Necessity for our legitimate interests (for instance, to keep our records updated) Necessity for our legitimate interests (to grow our organization) |
-| To improve our Services and to ensure that content is presented in the most relevant and effective manner for you and for your device; to administer our Services, including troubleshooting, data analytics, testing, research, statistical and survey purposes; to keep our Services, business and users safe and secure; to comply with applicable laws and regulations; and to protect or exercise our legal rights or defend against legal claims. | (a) Necessity for our legitimate interests (for running and protecting our business; for provision of administration and IT services; for network security and to prevent cybercrime and fraud; in the context of a business reorganization or group restructuring exercise; to study how people use our Services, to develop the Services, to keep our Services updated and relevant, to grow our business and to inform our communications strategy) |
+- *Information we may collect automatically*. We may collect internet, electronic activity, and other information from the devices and browsers that you use, including your device type; IP address; device and advertising identifiers, probabilistic identifiers, and other unique personal or online identifiers; time zone setting and location; browser type and version; browser plug in types and versions; operating system and platform; Internet service provider; pages that you visit before and after using the Services, browsing history, and search history; the date and time of your visit; information about the links you click, pages you view, and advertising you interact with within the Services and other information about how you use the Services, and the technology on the devices you use to access these Services. If you or your device experiences an error, we collect information about the error, the time the error occurred, the feature being used, the state of the application when the error occurred, and any communications or content provided at the time the error occurred.
 
-Where legally required and we have no other valid legal basis to process your information, we will obtain consent (for example, to provide you with marketing information or share information with third parties), which may subsequently be withdrawn at any time by contacting us. Withdrawing consent does not affect the lawfulness of processing based on consent before it is withdrawn.
+We may aggregate or de-identify the personal information described above. Aggregated or de-identified data that we do not attempt to reidentify is not subject to this Privacy Policy.
 
-#### III. DISCLOSURE OF INFORMATION
+Without this personal information, we are not able to provide you with all of the requested Services.
 
-We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect for business purposes.
+#### II. Sources of Personal Information
+In addition to receiving personal information from you, we may also periodically obtain the categories of personal information described above from other sources, including from users of our Services, operating systems and platforms, social networks, government entities that make personal information publicly available, service providers, project partners and collaborators, business partners, contractors, volunteers, and other third parties.
 
-- Authorized third-party vendors and service providers. We share the information you provide directly to us, the information we collect automatically, and the information we collect from other sources with third-party vendors and service providers that provide services to us for a variety of business purposes, such as email deployment, advertising and marketing (including counting ad impressions, verifying positioning and quality of ad impressions, ensuring compliance with industry standards and specifications, ad delivery, reporting, personalization, audience segmentation, and analytics), security and performance monitoring, research, and data hosting.
-- Affiliates.  We may share the information you provide directly to us, the information we collect automatically, and the information we collect from other sources with our affiliates.
-- Business transfers. We may share the information you provide directly to us, the information we collect automatically, and the information we collect from other sources in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
-- Legal purposes. We may disclose any information we collect to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of Filecoin Foundation, our affiliates, users, or the public.
-- With your consent. We may share all of the information we collect for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.  
+#### III. How We Use Personal Information
+We may use your personal information for the following business purposes:
 
-If you access third-party services -- such as social media services, third-party single-sign on tools -- through the Services, these third-party services may be able to collect information about you, including information about your activity on the Services, and they may notify your connections on the third-party services about your use of the Site, in accordance with their own privacy policies.
+- To provide you with access to and use of Services, including to facilitate use of our Websites, manage your account and preferences, process or fulfill orders and transactions, process payments, and provide customer service;
 
-If you choose to engage in public activities on the Services, you should be aware that any information you share there can be read, collected, or used by other users of these areas.  You should use caution in disclosing information while participating in these areas. We are not responsible for the information you choose to submit in these public areas.
+- To market and advertise the Services, including emails about events and opportunities you may be interested in;
 
-Filecoin Foundation does not sell your information to third parties. Filecoin Foundation does permit third parties to collect the information described above through our Service and discloses such information with third parties for business purposes as described in this Privacy Policy, including but not limited to providing advertising elsewhere based on users’ online activities over time and across different sites, services, and devices (so-called “interest-based advertising”). The information practices of these third parties are not covered by this Privacy Policy.  
+- To evaluate and administer funding and related applications, including to review application materials and provide funding for selected proposals;
 
-#### IV. COOKIES AND SIMILAR TECHNOLOGIES
+- To help keep the Services effective and secure, including to debug to identify and repair errors that impair existing functionality;
 
-By default, we do not track users or visitors to our site. We do not use cookies or similar technologies because we assume all users would prefer not to be tracked, and as such, mitigate or remove tracking at every touch point.
+- To enforce our Terms of Service;
 
-Do-Not-Track Signals and Similar Mechanisms. Some mobile and web browsers transmit "do-not-track" signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because we are not tracking visitors to our site, we do not take action in response to these signals.
+- To identify and protect against fraudulent transactions and other misuses of our Services;
 
-#### V. YOUR RIGHTS AND CHOICES
+- To analyze use of and improve our Websites and Services;
 
-You may be entitled, in accordance with applicable law, to object to or request restriction of processing of your information, and to request access to, rectification, erasure, and portability of your information or more information about our information practices. Requests should be submitted in writing as set out below. If you become aware of changes or inaccuracies in your information, you should inform us of such changes so that the information may be updated or corrected. Once we receive your request, we will verify it by matching the request against previous email correspondence received from the same email address. You may be entitled, in accordance with applicable law, to submit a request through an authorized agent.  To designate an authorized agent to exercise your rights and choices on your behalf, please email hello@fil.org.
+- To contact you;
 
-Although we don’t use cookies, we wish to inform you that you may be able to refuse or disable cookies by adjusting your web browser settings.  Some browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent. Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section). With regards to some of the popular browsers you can find more information by clicking on the following relevant links: Google Chrome; Microsoft Edge; Mozilla Firefox; Microsoft Internet Explorer; Opera and Apple Safari.  
+- To comply with applicable laws and regulatory obligations; and
 
-We do not use Local Shared Objects and similar technologies.  
+- For any other purpose disclosed to you at the time we collect your personal information with your consent.
 
-Some of our third-party partners are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click here or here. For additional information on how Google processes your information and what choices you may have, visit their site here.  Due to differences between websites and mobile apps, you may need to take additional steps to opt out of interest based advertising for mobile applications.  Please check your device settings and mobile app permissions for additional information on how to opt out. You also may stop further data collection from a mobile application by removing it from your mobile device.
+We do not use or disclose sensitive personal information beyond those purposes described above.
 
-#### VI. INTERNATIONAL TRANSFERS
+If you post personal information about yourself or others, or communicate with others using our Services, please note that we cannot control who reads your postings or what they do with the personal information you provide. We encourage you to use caution in posting personal information.
 
-We may transfer and store your information on servers located outside your resident jurisdiction.  To the extent you are a resident of a country other than the United States, UK or EEA, you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy.
+#### IV. Disclosure of Personal Information
+We may disclose your personal information in the following circumstances:
 
-Some of the entities (such as third-party vendors) to which we disclose information may be located outside of the EEA or UK, including in countries that may not provide the same level of data protection or redress means as your home country.  We take appropriate steps to ensure that such personnel and third-party vendors are bound to duties of confidentiality, and the Filecoin Foundation implements measures such as standard data protection contractual clauses to ensure that any transferred information, remains protected and secure. A copy of these clauses can be obtained by contacting us at the address listed below. Where we need to transfer your data to provide you a Service, we may rely on the derogation “transfer necessary for the performance of a contract”, as permitted by law.
+- **Affiliates & Related Entities:** We may disclose your personal information between and among affiliates, subsidiaries, and related companies.
 
-#### VII. CHILDREN
+- **Filecoin Foundation Working Group Participants:** We may disclose personal information, such as identifiers like real name and email, with members of working groups that Filecoin Foundation or Filecoin Foundation for the Decentralized Web participates in.
 
-We do not knowingly collect or sell any information from children, as defined by applicable law, without parental consent or as otherwise permitted by applicable law.  The website is not directed at children.
+- **Funding Programs:** We may disclose personal information, such as identifiers, financial information, and demographic information with entities with whom we co-administer grants or other funding programs, in order to evaluate funding applications and administer funding, including to review materials submitted and to provide the appropriate financing for selected proposals.
 
-#### VIII. DATA RETENTION, SECURITY, AND INTEGRITY
+- **Service Providers & Business Partners:** We may disclose your personal information, including identifiers, commercial information, electronic and network activity, geolocation data, demographic information, and inferences to support a variety of business purposes. These business purposes include product and service delivery, customer service, marketing, analytics services, security and performance monitoring, maintaining and servicing accounts, processing or fulfilling orders and transactions, verifying customer information, research, verifying customer information, data hosting, auditing, and data processing.
 
-Information will be retained only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws.
+- **Business transactions:** If we become involved with a merger, reorganization, corporate transaction, or another situation involving the transfer of some or all of our business assets, we may disclose your personal information with business entities or people involved in the negotiation or transfer.
 
-We maintain reasonable security measures to safeguard information from loss, theft interference, misuse, unauthorized access, disclosure, alteration, or destruction. We also maintain reasonable procedures to help ensure that such data is reliable for its intended use and is accurate, complete, and current. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure, accurate, complete, or current.  Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
+- **As Required by Law:** We may also collect, use, and disclose your personal information as necessary to comply with the law, respond to subpoenas, court orders, or other legal process, law enforcement requests, legal claims or government inquiries, detect fraud, and to protect and defend the rights, interests, safety and security of our Websites, Services, users, a third-party, or the public. For instance, we may disclose your personal information if we have reason to believe doing so is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, if we determine an ad posted on our Services violates our terms of use or the rights of a third party, or if there is an emergency involving danger to any person.
 
-#### IX. CHANGES TO THE PRIVACY POLICY
+- **With your consent:** We may also disclose personal information about you with other entities if you give us permission.
 
-We may modify this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.  We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
+Please note that if you post any of your personal information via the Services, such personal information may be viewed, collected, and used by others over whom we have no control. We are not responsible for the use by third parties of personal information you post or otherwise make public.
 
-#### X. CONTACT INFORMATION
+We do not sell personal information to third parties for monetary or other valuable consideration as defined by applicable law or share personal information for purposes of cross-contextual behavioral or targeted advertising.
 
-If you have any questions about this Privacy Policy or our practices, please contact us via hello@fil.org.
+#### V. Cookies
+"Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. We may serve cookies to track individual site usage for later aggregation. If you do not want information collected through the use of cookies, there is a procedure in most browser settings that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may wish to refer to [allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies/index.html). If you reject cookies through your browser settings, you may still use our Services, but you may experience some inconvenience.
+
+#### VI. Your Rights
+Depending on where you reside, you may be entitled to request access to, portability, correction, and deletion of your personal information.
+
+- **Right to Know:** You may have the right to know what personal information we have collected about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, and the categories of third parties to whom we disclose it.
+
+- **Right to Access & Data Portability:** Subject to certain exceptions, you may have the right to request a copy of the personal information we collected about you.
+
+- **Right to Correction and Deletion:** You may have the right to request that we correct or delete personal information that we collected from you and retain, subject to certain exceptions.
+
+To exercise your access, portability, correction, and deletion rights, you may submit a request by e-mail at [privacypolicy@fil.org](mailto:privacypolicy@fil.org) or by leaving a message at (302) 440-4493. Once we receive your request, we may verify it by requesting information sufficient to confirm your identity. You may also be entitled, in accordance with applicable law, to appeal a refusal to take action on your request; to do so please respond to the email denying your request.
+
+Only you, or a person authorized by you to act on your behalf, may make a verifiable consumer request related to your personal information. If you would like to use an authorized agent to exercise your rights, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. We reserve the right to deny requests in certain circumstances, such as where we have a reasonable belief that the request is fraudulent, where your identity cannot be confirmed, or where we must maintain your personal information consistent with applicable law.
+
+Note that while some of the personal information that we collect about you may be considered sensitive personal information, we process such information for only those purposes detailed in this Privacy Policy and as authorized by law. For example, we might process your sensitive personal information in order to provide the services you request from us.
+
+#### VII. Other California Rights
+- **Do Not Track:** Our systems do not at this time have the necessary programming to honor "Do Not Track" or "DNT" browser signals. Please return to this Privacy Policy in future for further updates on this topic.
+
+- **Shine the Light:** California residents who provide certain personal information in connection with obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we disclosed, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we disclosed customer information for the immediately prior calendar year.
+
+#### VIII. Communication from Us
+From time to time, we may send you information with announcements and updates about the Websites and the Services. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, and inquiries.
+
+#### IX. Children
+The Websites and Services are not intended for children under the age of 16 nor do we knowingly collect personal information from children under 16. We do not knowingly sell or share personal information of individuals under the age of 16.
+
+#### X. Links to Other Sites
+The Services may provide links and pointers to websites maintained by other organizations. We provide these links as a convenience to users, but we do not operate, control, or endorse such sites. We also disclaim any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. We do not make any warranties or representations that any linked websites will function without error or interruption, or that defects will be corrected.
+
+#### XI. E-Commerce
+We may have links to outside websites where you may engage in transactions. We are not responsible for transactions conducted on those sites and cannot vouch for the security of the personal information submitted in those transactions. We have no control over the content and security practices of outside websites.
+
+#### XII. Security and Retention
+Personal information will be retained only for so long as reasonably necessary and proportionate for the purposes set out above in accordance with applicable law and based on the criteria set out in this Privacy Policy. We have in place commercially reasonable technological and procedural security measures in an attempt to protect and safeguard the security of the personal information. Despite these efforts, please understand that no system is perfect or can guarantee that unauthorized access or theft of data might not occur.
+
+#### XIII. Changes to this Privacy Policy
+We may amend this Privacy Policy at any time, so please review it frequently. If we make a material change to this Privacy Policy, we will update the Last Updated date on this notice.
+
+#### XIV. Policy Acceptance
+By using the Services, you signify your acknowledgment of this Privacy Policy. If you do not agree or are not comfortable with any policy described in this Privacy Policy, you may discontinue use of the Services.
+
+#### XV. More Questions?
+If you have any questions about this Privacy Policy, email them to [privacypolicy@fil.org](mailto:privacypolicy@fil.org) and be sure to indicate the specific site you're visiting and the nature of your question or concern.
