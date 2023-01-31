@@ -1,5 +1,5 @@
 ---
-label: "[Page] Grants"
+label: "[Page] Awards"
 hide_body: true
 fields:
 - name: seo
@@ -29,6 +29,21 @@ fields:
   label: Page Content
   description: The visible content on the page is editable within this section.
   fields:
+  - type: field_group
+    name: info_0
+    label: Info 0
+    description: The first text block on the page, effectively the 0th section.
+    fields:
+    - type: field_group
+      name: col_1
+      label: Wide column
+      description: A column that contains the editable content within this section
+      fields:
+      - name: text_block
+        type: include
+        config: {}
+        template: text-block
+        label: Template → [Block] Text
   - type: field_group
     name: mission
     label: Mission
