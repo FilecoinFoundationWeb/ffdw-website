@@ -45,6 +45,7 @@ fields:
   label: Post Header Image
   description: Add an image that will appear in the header for this post
 pages:
+- content/blog/2022-ffdw-report.md
 - content/blog/announcing-filecoin-foundation-for-the-decentralized-web-s-first-open-request-for-proposals.md
 - content/blog/announcing-the-decentralized-future-council.md
 - content/blog/big-ideas-driving-the-decentralized-web.md
