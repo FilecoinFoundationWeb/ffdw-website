@@ -3,13 +3,17 @@ tags: []
 title: 'FFDW and Connect Humanity: Empowering an Equitable Digital Future'
 date: 2023-03-28
 author: ''
-description: Largest ever survey of civil society’s digital haves and have-nots shines
+description: 'Largest ever survey of civil society’s digital haves and have-nots shines
   light on one of the biggest barriers facing NGOs
+
+  '
 featured: false
 recommendedPosts: []
 image: "/images/0321-ch.png"
 
 ---
+_Largest ever survey of civil society’s digital haves and have-nots shines light on one of the biggest barriers facing NGOs_
+
 Nearly half of the world's population [lacks adequate access to the internet](https://www.weforum.org/agenda/2020/04/coronavirus-covid-19-pandemic-digital-divide-internet-data-broadband-mobbile/), which means billions of people cannot keep pace with an increasingly digital world. Lack of internet access directly impacts socioeconomic factors like education, income, and access to quality healthcare. This critical access to information is a human right, and we must collectively do a better job of ensuring that right for everyone. To advance digital equity — the state in which all individuals have the digital access, tools, and skills they need to operate in our transforming society — we must first understand the conditions that ensure that access.
 
 Civil society and the decentralized web (Dweb) are aligned in the core value of decentralization: both are decentralized in nature and their structure encourages the participation of many people across diverse applications, groups, or services. Civil society has a lot to gain by connecting to and making use of DWeb technologies. This is what brought [Connect Humanity](https://connecthumanity.fund/) and FFDW together.
