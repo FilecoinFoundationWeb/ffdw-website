@@ -1,6 +1,6 @@
 ---
 tags: []
-title: 'FDW and Sacred Stacks: Building Community with Decentralized Tools'
+title: 'FFDW and Sacred Stacks: Building Community with Decentralized Tools'
 date: 2023-05-30
 author: ''
 description: 'Can decentralization really help build community? And how can healthier social relations emerge around our technology, particularly in terms of self-governance, autonomy, and accessibility? '
